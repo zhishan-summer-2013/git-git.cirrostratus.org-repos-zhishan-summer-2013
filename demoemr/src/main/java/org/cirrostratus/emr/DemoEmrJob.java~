@@ -1,0 +1,4 @@
+package org.cirrostratus.emr;
+
+public class DemoEmrJob {
+}
